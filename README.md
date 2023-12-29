@@ -1,5 +1,4 @@
-### Hi there 👋, welcome to my GitHub!
-#### **Bill Nguyen** | located in *Melbourne, Australia*
+#### Welcome to my GitHub!
 
 I am a software engineer who really enjoys creating things that are either fun or useful to people, such as myself :)
 
@@ -8,3 +7,4 @@ I am a software engineer who really enjoys creating things that are either fun o
 
 
 Skills: **JAVA | PYTHON | JS | HTML | C | C++ | C#**
+#### **Bill Nguyen** | located in *Melbourne, Australia*
