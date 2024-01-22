@@ -12,8 +12,8 @@ I am a software engineer who really enjoys creating things that are either fun o
 
   <h1> PROJECTS </h1>
   
-  <a href="https://github.com/bnnguye/The-Climb"> The Climb (Game | Multiplayer | Party | Anime)</a>
+  <a href="https://youtu.be/2Ho_yOUvIrM"> The Climb (Game | Multiplayer | Party | Anime)</a>
 
-  <a href="https://github.com/bnnguye/SpotifyYoutubePlaylist"> Spotify to Youtube Playlist Converter (Web App | API | Spring Boot) </a>
+  <a href="https://youtu.be/OED4t8Qjfoc"> Spotify to Youtube Playlist Converter (Web App | API | Spring Boot) </a>
 
  </div>
